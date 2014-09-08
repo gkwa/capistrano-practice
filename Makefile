@@ -6,6 +6,3 @@ t3:
 
 step1:
 	bundle exec cap install
-
-t:
-	cap install
